@@ -28,4 +28,3 @@ $ npm stop
 
 
 [midway]: https://midwayjs.org
-# midway-project
